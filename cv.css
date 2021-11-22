@@ -1,0 +1,84 @@
+body{
+    background-color: bisque;
+}
+.page{
+    wide: 600px;
+    margin:auto;
+    font-family: 'source sans pro', Calibri, Tahoma, sans-serif;
+    font-siza: 30px;
+    border: 5px solid #3388cc;
+    border-radius 10px; 
+    border-shadow: 2px 4px 3px black;
+    padding: 20px;
+    background-color: white;
+
+}
+
+.infophoto{
+    height:230px;
+}
+
+.info{
+    float:left;
+    font-size: 27px;
+}
+
+.photo{
+    float:right;
+}
+
+.section{
+    margin-bottom: 90px;
+    text-align: justify;
+}
+
+.section:hover{
+    color:#00AA00;
+}
+
+.sec-gauche{
+    float: left;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sec-droite{
+    margin-left: 350px;
+    margin-top: 12px;
+}
+
+h2{
+    font-size: 33px;
+    color:#3388BB;
+    border-bottom: 3px solid #3388DD;
+
+}
+
+.duree{
+    font-weight: normal;
+    font-style:italic;
+    font-size: 16px;
+}
+
+.titre{
+    font-weight: bold;
+    font-size: 30px;
+}
+
+#forma-gauche p{
+    margin-bottom: 60px;
+
+}
+
+#exp-gauche p{
+    margin-top: 35px;
+}
+
+#lang-droite p{
+    margin-top: 43Spx;
+}
+
+#strong olivia GADO {
+    font-size:30px;
+}
+
+
